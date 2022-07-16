@@ -17,6 +17,8 @@ Bird_Frog1's Fortress      |  Dog_Horse1 in Repose
 :-------------------------:|:-------------------------:
 ![bird_frog1 in repose](artists_rendition1.png)  |  ![dog_horse1](artists_rendition2.png)
 
+References
 
-
-
+* [Conditional Generative Adversarial Network (CGAN)](https://arxiv.org/abs/1411.1784)
+* [Conditional GAN Example (Keras)](https://keras.io/examples/generative/conditional_gan/)
+* [CIFAR GAN Example (Machine Learning Mastery)](https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-a-cifar-10-small-object-photographs-from-scratch/)
