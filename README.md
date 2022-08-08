@@ -1,4 +1,4 @@
-# CGAN_S22
+# CIFAR10-CGAN
 
 This repository contains a student project in which a [Conditional Generative
 Adversarial Network (CGAN)](https://arxiv.org/abs/1411.1784) is trained using 
